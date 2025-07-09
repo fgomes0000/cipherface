@@ -201,15 +201,15 @@ There are many ways to support a project - starring⭐️ the GitHub repo is jus
 If you do like this work, then you can support it financially on [Patreon](https://www.patreon.com/serengil?repo=deepface), [GitHub Sponsors](https://github.com/sponsors/serengil) or [Buy Me a Coffee](https://buymeacoffee.com/serengil).
 
 <a href="https://www.patreon.com/serengil?repo=deepface">
-<img src="https://raw.githubusercontent.com/serengil/deepface/master/icon/patreon.png" width="30%" height="30%">
+<img src="https://raw.githubusercontent.com/serengil/deepface/master/icon/patreon.png" width="30%">
 </a>
 
 <a href="https://github.com/sponsors/serengil">
-<img src="https://raw.githubusercontent.com/serengil/deepface/refs/heads/master/icon/github_sponsor_button.png" width="37%" height="37%">
+<img src="https://raw.githubusercontent.com/serengil/deepface/refs/heads/master/icon/github_sponsor_button.png" width="37%">
 </a>
 
 <a href="https://buymeacoffee.com/serengil">
-<img src="https://raw.githubusercontent.com/serengil/deepface/master/icon/bmc-button.png" width="25%" height="25%">
+<img src="https://raw.githubusercontent.com/serengil/deepface/master/icon/bmc-button.png" width="25%">
 </a>
 
 ## Citation
